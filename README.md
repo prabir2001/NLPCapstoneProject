@@ -39,3 +39,9 @@ a.	All the features are derived for each of the articles.
 b.	Master data created for all the articles and authors
 13.	Recommendation
 a.	From the features of the new articles, recommended top 5 authors 
+
+Step-by-step Walkthrough of the Solution
+![image](https://github.com/prabir2001/NLPCapstoneProject/assets/11865192/7ae2ce19-6af7-4ba0-a6dc-0dafb14fb1ac)
+
+
+
